@@ -1,6 +1,5 @@
 .coveralls.yml
 .DS_Store
-*.custom.*
 *.template.*
 *.map
 /*.min.*
